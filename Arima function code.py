@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 warnings.filterwarnings("ignore")
 plt.style.use('fivethirtyeight')
 import statsmodels.api as sm
-import matplotlib
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.arima.model import ARIMA
 
